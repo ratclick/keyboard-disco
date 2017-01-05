@@ -7,5 +7,5 @@ Dance Disco<br>
 Race the Racer
 
 ## TO-DO
-Create File structure
+Add moving gif
 
