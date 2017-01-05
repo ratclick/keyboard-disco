@@ -1,0 +1,37 @@
+@font-face
+{
+	font-family: "monof";
+	src : url("..\\assets\\fonts\\monof\\monof55.ttf");
+}
+
+
+@font-face{
+	font-family: "unispace";
+	src:url("..\\assets\\fonts\\unispace\\unispace-rg.ttf");
+}
+
+
+.playArea{
+	min-height:70px;
+	width: calc(100% - 10);
+	border: 1px solid black;
+	margin-top:50px;
+	padding:10px;
+}
+
+.run-board{
+	line-height: 20px;
+	font-family: unispace;
+}
+
+.run-board#phone{
+	font-size:10px;
+}
+
+.run-board#tablet{
+	font-size:20px;
+}
+
+.run-board#pc{
+	font-size:30px;
+}
