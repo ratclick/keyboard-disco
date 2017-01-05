@@ -3,7 +3,7 @@ Keyboard Tutor with the fun touch ;)
 A compilation of Games for Typing!
 
 ## Modes
-Dance Disco
+Dance Disco<br>
 Race the Racer
 
 ## TO-DO
